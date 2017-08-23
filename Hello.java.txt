@@ -1,0 +1,29 @@
+package accesspecifiers;
+
+public class Abc {
+	private int a=57;
+	
+private int x=90;
+	
+	void dispaly()
+	{
+		System.out.println("Hiiiii");
+		System.out.println(+x);
+		
+	}
+
+	public static void main(String[] args) {
+		
+		Abc m=new Abc();
+		System.out.println(m.a);
+		 
+		
+		
+		
+		
+		
+
+
+	}
+
+}
